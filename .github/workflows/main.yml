@@ -15,7 +15,7 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
-ame: Setup Atom
+-name: Setup Atom
   uses: UziTech/action-setup-atom@v1.0.2
   with:
     # Channel
